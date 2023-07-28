@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go B*tch!', 
+    success: 'Here you go!    btw https://youtube.com/@DorTurkyy', 
 }
 
 let file = require.resolve(__filename)
