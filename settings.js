@@ -51,7 +51,7 @@ global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
+global.defaultpp = 'https://pixabay.com/photos/wolf-eurasian-wolf-common-wolf-8142720/' //default pp wa
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
