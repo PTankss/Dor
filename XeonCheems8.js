@@ -1492,7 +1492,9 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             xeonezy = `┌─❖
 	    BEST WHATSAPPS + APPS MAKER https://youtube.com/@DorTurkyy
      └─────────────────┈ ⳹
-│ Hi 👋, ⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU.EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
+     ⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU.EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
+     └─────────────────┈ ⳹
+│ Hi 👋            『𝗬𝗼𝘂𝘁𝘂𝗯𝗲: 𝗗𝗼𝗿𝗧𝘂𝗿𝗸𝘆』
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
 │└────────────┈ ⳹
