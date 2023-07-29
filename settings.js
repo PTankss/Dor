@@ -29,7 +29,7 @@ global.socialm = "Insta: DorTurky" //ur github or insta name
 global.location = "United States,New Jersey" //ur location
 
 //new
-global.botname = "DorTurky V8"
+global.botname = "DorTurky Limited edition"
 global.ownernumber = '96176143343'
 global.ownername = 'DorTurky'
 global.ownerNumber = ["96176143343@s.whatsapp.net"]
