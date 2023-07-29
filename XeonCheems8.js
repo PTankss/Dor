@@ -1491,8 +1491,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
 	    BEST WHATSAPPS + APPS MAKER https://youtube.com/@DorTurkyy
-     └─────────────────┈ ⳹
-     ⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU.EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
+     ⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU,EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
      └─────────────────┈ ⳹
 │ Hi 👋            『𝗬𝗼𝘂𝘁𝘂𝗯𝗲: 𝗗𝗼𝗿𝗧𝘂𝗿𝗸𝘆』
 └┬❖  ${pushname} 
@@ -1503,21 +1502,16 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │𝗕𝗼𝘁 : ${global.botname}
 │𝗢𝘄𝗻𝗲𝗿 𝗡𝗼: ${ownernumber}
 │𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
-└─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
+└ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
 │𝗡𝗮𝗺𝗲 : ${pushname}
 │𝗡𝘂𝗺𝗯𝗲𝗿 : @${me.split('@')[0]}
 │𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : ${isPrem ? '✅' : `❌`}
-└─────────────────┈ ⳹
-│⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU.EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
-└─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
+└𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
 │𝗧𝗶m𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
-└┬────────────┈ ⳹
-   │✑  Please Type The *MENU*
-   │✑  Given *BELOW* example: .allmenu
-   └─────────────────┈ ⳹
-   ⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU.EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
-┌└─────────────┈ ⳹
+└┬──
+   │✑  Please Type The *MENU* Given *BELOW* example: .allmenu
+   └────────┈ ⳹
 │❏.allmenu
 │❏.downloadmenu
 │❏.funmenu
@@ -1537,7 +1531,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │❏.bugmenu
 │❏.othermenu
 └─────────────────┈ ⳹
-⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU.EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
+⚠️PHOTOOXYMENU,NSFW,TEXTPROMENU,EPHOTO360MENU WILL BE *DISABLED* TILL 10 AUGUST⚠️
 └─────────────────┈ ⳹
 │𝗣𝗿𝗲𝗳𝗶𝘅 :  NO-PREFIX 
 │𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
